@@ -1,0 +1,14 @@
+{
+    "camera": {
+        "lookFrom": [13, 2, 3],
+        "lookAt": [0, 0, 0],
+        "vup": [0, 1, 0],
+        "vfov": 90.0,
+        "aspectRatio": 1.77,
+        "pixelsX": 500
+    },
+     "background": true,
+     "MAXDEPTH": 1,
+     "colorTopBackground": [1, 0.9, 0.7],
+     "colorDownBackground": [ 1, 0.8, 0.9]
+}

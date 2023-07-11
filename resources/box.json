@@ -1,0 +1,22 @@
+{
+    "scene": "Esferes",
+    "typeScene": "VIRTUAL",
+    "objects": [
+    {
+      "name": "capsa",
+      "type": "BOX",
+      "minPoint": [-1,-1,-1],
+      "maxPoint": [1,1,1],
+      "material": {
+        "type": "lambertian",
+        "ka": [0.2, 0.2, 0.2],
+        "kd": [0.5, 0.5, 0.5],
+        "ks": [1.0, 1.0, 1.0],
+        "shininess": 10.0,
+        "kt": [0.0, 0.0, 0.0],
+        "nut": 0.0
+        }
+    }
+    
+    ]
+    }
